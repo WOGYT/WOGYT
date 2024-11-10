@@ -1,5 +1,20 @@
-## Hi there 👋
 
+<br>
+
+# About me 👋
+I'm a french student releasing cool project on my free time
+
+<br>
+# 📭 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/gabriel-legout-8b8a9722a/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+  
+</p>
+<br>
+  
 <!--
 **WOGYT/WOGYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
