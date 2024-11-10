@@ -1,10 +1,9 @@
 
-<br>
-
 # About me 👋
 I'm a french student releasing cool project on my free time
 
 <br>
+
 # 📭 Contact
 
 <p align="center">
@@ -13,7 +12,6 @@ I'm a french student releasing cool project on my free time
 	</a>
   
 </p>
-<br>
   
 <!--
 **WOGYT/WOGYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
