@@ -1,6 +1,6 @@
 
 # About me 👋
-I'm a french student releasing cool project on my free time
+I'm a french student releasing cool projects on my free time
 
 <br>
 
@@ -14,6 +14,10 @@ I'm a french student releasing cool project on my free time
 	<a href="mailto:gabriel.legout9@gmail.com">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
+	<span>&nbsp;</span>
+	<a href="https://www.instagram.com/gabriel.legt/profilecard/?igsh=b3B4N2VuZjZnM3I1">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	<a/>
 </p>
 
 <br>
